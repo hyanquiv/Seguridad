@@ -1,0 +1,252 @@
+Trigrama: ADA
+Distancias: 66 
+Trigrama: ADE
+Distancias: 218 319 101 
+Trigrama: AEN
+Distancias: 444 
+Trigrama: ALG
+Distancias: 78 
+Trigrama: ALM
+Distancias: 185 378 193 
+Trigrama: AND
+Distancias: 206 
+Trigrama: ANF
+Distancias: 558 
+Trigrama: ANT
+Distancias: 128 
+Trigrama: ASC
+Distancias: 96 
+Trigrama: ASF
+Distancias: 17 167 150 
+Trigrama: ASO
+Distancias: 79 
+Trigrama: ATA
+Distancias: 558 
+Trigrama: AVI
+Distancias: 558 
+Trigrama: AZG
+Distancias: 558 
+Trigrama: BAR
+Distancias: 3 
+Trigrama: BRE
+Distancias: 288 293 298 329 5 10 41 5 36 31 
+Trigrama: COM
+Distancias: 17 409 492 392 475 83 
+Trigrama: COS
+Distancias: 384 
+Trigrama: DAS
+Distancias: 6 
+Trigrama: DAT
+Distancias: 558 
+Trigrama: DEA
+Distancias: 78 
+Trigrama: DEL
+Distancias: 235 247 355 12 120 108 
+Trigrama: DIO
+Distancias: 5 
+Trigrama: DOL
+Distancias: 430 
+Trigrama: DOS
+Distancias: 140 429 289 
+Trigrama: EAL
+Distancias: 78 
+Trigrama: EEL
+Distancias: 252 400 148 
+Trigrama: EEM
+Distancias: 429 
+Trigrama: ELA
+Distancias: 185 
+Trigrama: ELI
+Distancias: 18 67 49 
+Trigrama: ELL
+Distancias: 106 
+Trigrama: ELO
+Distancias: 235 396 453 161 218 57 
+Trigrama: ELV
+Distancias: 57 
+Trigrama: EMA
+Distancias: 81 
+Trigrama: EMP
+Distancias: 429 
+Trigrama: ENE
+Distancias: 47 66 19 
+Trigrama: ENL
+Distancias: 379 539 558 160 179 19 
+Trigrama: ENO
+Distancias: 164 
+Trigrama: EPO
+Distancias: 5 
+Trigrama: ERA
+Distancias: 40 
+Trigrama: ERO
+Distancias: 39 
+Trigrama: ERT
+Distancias: 161 234 372 558 73 211 397 138 324 186 
+Trigrama: ESE
+Distancias: 179 558 379 
+Trigrama: ESO
+Distancias: 142 218 76 
+Trigrama: ESY
+Distancias: 558 
+Trigrama: FVE
+Distancias: 161 558 397 
+Trigrama: GOL
+Distancias: 30 336 558 306 528 222 
+Trigrama: HAZ
+Distancias: 558 
+Trigrama: IDA
+Distancias: 254 558 304 
+Trigrama: IDO
+Distancias: 429 
+Trigrama: IER
+Distancias: 62 
+Trigrama: IOM
+Distancias: 49 
+Trigrama: ION
+Distancias: 98 
+Trigrama: IOS
+Distancias: 392 449 57 
+Trigrama: LAL
+Distancias: 185 
+Trigrama: LAM
+Distancias: 226 298 72 
+Trigrama: LAS
+Distancias: 43 108 139 65 96 31 
+Trigrama: LAV
+Distancias: 558 
+Trigrama: LIO
+Distancias: 18 67 49 
+Trigrama: LLO
+Distancias: 106 
+Trigrama: LMA
+Distancias: 185 378 193 
+Trigrama: LOS
+Distancias: 17 130 156 212 373 430 113 139 195 356 413 26 82 243 300 56 217 274 161 218 57 
+Trigrama: LPE
+Distancias: 30 336 558 306 528 222 
+Trigrama: LVE
+Distancias: 244 301 57 
+Trigrama: MAD
+Distancias: 193 
+Trigrama: MAS
+Distancias: 17 
+Trigrama: MAY
+Distancias: 304 
+Trigrama: MBR
+Distancias: 49 
+Trigrama: MOC
+Distancias: 83 
+Trigrama: MPO
+Distancias: 429 
+Trigrama: NDA
+Distancias: 25 
+Trigrama: NEL
+Distancias: 47 66 19 
+Trigrama: NFV
+Distancias: 558 
+Trigrama: NLA
+Distancias: 252 348 379 539 558 96 127 287 306 31 191 210 160 179 19 
+Trigrama: NOS
+Distancias: 85 215 375 379 445 558 130 290 294 360 473 160 164 230 343 4 70 183 66 179 113 
+Trigrama: OBR
+Distancias: 5 36 31 
+Trigrama: OCO
+Distancias: 384 
+Trigrama: ODE
+Distancias: 7 498 491 
+Trigrama: ODO
+Distancias: 430 
+Trigrama: OIO
+Distancias: 57 
+Trigrama: OLO
+Distancias: 139 430 291 
+Trigrama: OLP
+Distancias: 30 336 558 306 528 222 
+Trigrama: OMA
+Distancias: 17 
+Trigrama: OMB
+Distancias: 49 
+Trigrama: OMO
+Distancias: 17 135 409 492 118 392 475 274 357 83 
+Trigrama: ONL
+Distancias: 96 
+Trigrama: ONO
+Distancias: 85 445 558 360 473 113 
+Trigrama: OSC
+Distancias: 90 227 392 137 302 165 
+Trigrama: OSD
+Distancias: 83 
+Trigrama: OSE
+Distancias: 63 85 375 492 558 22 312 429 495 290 407 473 117 183 66 
+Trigrama: OSI
+Distancias: 166 
+Trigrama: OSL
+Distancias: 406 434 28 
+Trigrama: OSO
+Distancias: 313 370 57 
+Trigrama: OSP
+Distancias: 75 
+Trigrama: OSQ
+Distancias: 170 
+Trigrama: OZA
+Distancias: 429 
+Trigrama: PES
+Distancias: 30 336 558 306 528 222 
+Trigrama: POB
+Distancias: 5 
+Trigrama: POZ
+Distancias: 429 
+Trigrama: QVE
+Distancias: 74 144 170 70 96 26 
+Trigrama: REP
+Distancias: 60 65 5 
+Trigrama: ROS
+Distancias: 27 76 86 110 49 59 83 10 34 24 
+Trigrama: RTE
+Distancias: 161 234 558 73 397 324 
+Trigrama: SCO
+Distancias: 17 409 392 
+Trigrama: SCR
+Distancias: 79 
+Trigrama: SDE
+Distancias: 71 83 168 12 97 85 
+Trigrama: SEE
+Distancias: 429 
+Trigrama: SEN
+Distancias: 142 398 558 256 416 160 
+Trigrama: SOI
+Distancias: 57 
+Trigrama: SON
+Distancias: 12 142 238 130 226 96 
+Trigrama: SOS
+Distancias: 193 
+Trigrama: SQV
+Distancias: 170 
+Trigrama: SYO
+Distancias: 558 
+Trigrama: TAN
+Distancias: 558 
+Trigrama: TES
+Distancias: 161 234 558 73 397 324 
+Trigrama: TOD
+Distancias: 430 
+Trigrama: TOS
+Distancias: 66 
+Trigrama: TRO
+Distancias: 45 
+Trigrama: VEE
+Distancias: 70 
+Trigrama: VEL
+Distancias: 3 57 60 54 57 3 
+Trigrama: VER
+Distancias: 161 234 372 558 73 211 397 138 324 186 
+Trigrama: VID
+Distancias: 506 558 52 
+Trigrama: VNA
+Distancias: 180 
+Trigrama: VVE
+Distancias: 57 
+Trigrama: YON
+Distancias: 85 558 473 
+Trigrama: ZGO
+Distancias: 558 
