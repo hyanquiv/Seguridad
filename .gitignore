@@ -1,5 +1,9 @@
+# Folders
+.vscode/
+
 # Prerequisites
 *.d
+*
 
 # Compiled Object files
 *.slo
