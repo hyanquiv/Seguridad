@@ -4,7 +4,7 @@
 
 int main() {
     // Nombre del archivo de entrada y salida
-    const std::string inputFileName = "HERALDOSNEGROS_Unicode8230.txt";
+    const std::string inputFileName = "HERALDOSNEGROS_pre.txt";
     const std::string outputFileName = "HERALDOSNEGROS_final.txt";
 
     // Abre el archivo de entrada

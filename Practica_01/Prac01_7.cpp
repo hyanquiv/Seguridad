@@ -3,8 +3,8 @@
 
 int main() {
     // Abre el archivo de entrada en modo lectura y el archivo de salida en modo escritura
-    std::ifstream archivoEntrada("HERALDOSNEGROS_Unicode8.txt", std::ios::in);
-    std::ofstream archivoSalida("HERALDOSNEGROS_Unicode8230.txt", std::ios::out);
+    std::ifstream archivoEntrada("HERALDOSNEGROS_pre.txt", std::ios::in);
+    std::ofstream archivoSalida("HERALDOSNEGROS_Unicode8.txt", std::ios::out);
 
     if (!archivoEntrada.is_open() || !archivoSalida.is_open()) {
         std::cerr << "Error al abrir los archivos." << std::endl;
