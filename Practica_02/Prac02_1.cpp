@@ -2,6 +2,7 @@
 #include <string>
 #include <locale>
 
+
 using namespace std;
 
 // Función para eliminar las tildes
