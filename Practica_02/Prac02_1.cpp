@@ -2,7 +2,6 @@
 #include <string>
 #include <locale>
 
-
 using namespace std;
 
 // Función para eliminar las tildes
@@ -84,15 +83,11 @@ wstring cifrarVigenere(wstring texto, wstring clave, const wchar_t* alfabeto, in
             }
         }
 
-        if (indiceCaracter != -1 && indiceClave != -1) {
-            // Realizar el cifrado en base a los índices
-            int indiceCifrado = (indiceCaracter + indiceClave) % longitudAlfabeto;
-            wchar_t caracterCifrado = alfabeto[indiceCifrado];
-            resultado += caracterCifrado;
-        } else {
-            // Si el carácter no está en el alfabeto, mantenerlo igual
-            resultado += caracter;
-        }
+        // Realizar el cifrado en base a los índices
+        int indiceCifrado = (indiceCaracter + indiceClave) % longitudAlfabeto;
+        wchar_t caracterCifrado = alfabeto[indiceCifrado];
+        resultado += caracterCifrado;
+        
     }
 
     return resultado;
